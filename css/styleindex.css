@@ -1,0 +1,42 @@
+img{
+
+    height: 300px;
+    width: 200px;
+    border-radius: 1px;
+
+}
+
+.container {
+    width: 100%;
+    height: 82vh;
+    background-color:rgb(235, 211, 238);
+    text-align: center;
+    display:flex;
+    justify-content: space-between;
+	}
+
+.imagen{
+    height:80px;
+		width:10%;
+		float:left;
+		margin: 10px
+}
+
+.parrafo{
+    align-items: center;
+}
+
+.footer{
+    text-align: center;
+}
+
+
+
+.vercarro{
+    float:right;
+    margin-right:15px;
+}
+    
+  
+  
+  

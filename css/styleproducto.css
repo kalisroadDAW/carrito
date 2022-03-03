@@ -1,0 +1,26 @@
+img{
+
+    height: 300px;
+    width: 212px;
+
+}
+
+body {
+    
+    justify-content: center;
+}
+
+.product-item {
+    width: 10%;
+    height: 35vh;
+    background-color:rgb(235, 211, 238);
+    text-align: center;
+    display:flex;
+    justify-content: space-between;
+	}
+
+    
+
+
+    
+  
